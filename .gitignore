@@ -1,0 +1,68 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Logs and outputs
+*.log
+logs/
+retail_analysis_logs/
+retail_analysis_outputs/
+
+# Documentation with potentially sensitive information
+Report.docx
+*.pptx
+
+# Environment variables and sensitive configuration
+.env
+.env.local
+config.ini
+credentials.json
+*.key
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit credentials
+.streamlit/
+
+# Large cached files
+*.pkl
+*.h5
+.cache/ 
