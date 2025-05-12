@@ -180,4 +180,4 @@ This project was developed as an academic exercise. The Online Retail II dataset
 
 ## Contributors
 
-Created as a data mining project with a focus on customer segmentation and retail analytics. 
+Created as a data mining project with a focus on customer segmentation and retail analytics.
